@@ -1,85 +1,379 @@
-Contents \[hide\] 1 Introduction 1.1 Applications 1.2 Specification 1.3
-Shipping List 2 Connection Diagram 3 Sample Code Introduction These 10
-segment bar graph LEDs have many uses. With a compact footprint, and a
-simple hookup, they are easy for prototyping or finished products.
-Essentially, they are 10 individual red LEDs housed together.
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+<siteinfo> <sitename>DF-Wiki</sitename> <dbname>my\_wiki\_1</dbname>
+<base>http://dfwiki.com/index.php?title=Main\_Page</base>
+<generator>MediaWiki 1.27.1</generator> <case>first-letter</case>
+<namespaces> <namespace key="-2" case="first-letter">Media</namespace>
+<namespace key="-1" case="first-letter">Special</namespace>
+<namespace key="0" case="first-letter" />
+<namespace key="1" case="first-letter">Talk</namespace>
+<namespace key="2" case="first-letter">User</namespace>
+<namespace key="3" case="first-letter">User talk</namespace>
+<namespace key="4" case="first-letter">DF-Wiki</namespace>
+<namespace key="5" case="first-letter">DF-Wiki talk</namespace>
+<namespace key="6" case="first-letter">File</namespace>
+<namespace key="7" case="first-letter">File talk</namespace>
+<namespace key="8" case="first-letter">MediaWiki</namespace>
+<namespace key="9" case="first-letter">MediaWiki talk</namespace>
+<namespace key="10" case="first-letter">Template</namespace>
+<namespace key="11" case="first-letter">Template talk</namespace>
+<namespace key="12" case="first-letter">Help</namespace>
+<namespace key="13" case="first-letter">Help talk</namespace>
+<namespace key="14" case="first-letter">Category</namespace>
+<namespace key="15" case="first-letter">Category talk</namespace>
+</namespaces> </siteinfo> <page>
+<title>
+20 OpenCart Themes for 2018 from ThemeForest
+</title>
 
-Applications Audio equipment Instrument panels Digital readout display
-Signal strength display Power status display Art display Specification
-Forward Current (Per Segment): 25mA Max Reverse Voltage: 5v 10 segment
-bar Color: Super Bright Red Industrial standard size Low power
-consumption Categorized for luminous intensity Shipping List 10 segment
-led bar graph - Red (1 unit) Connection Diagram
+<ns>0</ns> <id>6</id> <revision> <id>7</id>
+<timestamp>2018-03-16T01:28:08Z</timestamp> <contributor>
+<username>Root</username> <id>1</id> </contributor> <comment>Created
+page with " Features Demo Marketplace Blog Showcase Resources All
+Articles Tutorials Announcements Tips and Tricks Success Stories
+Video..."</comment> <model>wikitext</model> <format>text/x-wiki</format>
+<text xml:space="preserve" bytes="13479">
 
-10 Segment LED Bar Graph Connection Please note that the connection
-diagram shows the pins connected in reverse order for the sake of
-clarity. When you run the sample code included here you might notice a
-reverse order sequence. If you wish to wire the LEDs in the correct
-order you should wire: Arduino D2 to PIN1 Arduino D3 to PIN2 Arduino D4
-to PIN3 Arduino D5 to PIN4 and so on\...
+    Features
+    Demo
+    Marketplace
+    Blog
+    Showcase
+    Resources
 
-Alternatively you could modify the sample code to operate in the
-expected order.
+    All Articles
+    Tutorials
+    Announcements
+    Tips and Tricks
+    Success Stories
+    Video Tutorials
 
-Sample Code // \# // \# Editor : Lauren from DFRobot // \# Date :
-19.03.2012
+20 OpenCart Themes for 2018 from ThemeForest
 
-// \# Product name: 10 Segment LED Bar Graph // \# Product SKU : FIT0188
-// \# Version : 1.0
+    By ThemeForest 20 Feb 2018 3 comments
 
-// \# Description: // \# The sketch for using the 10 Segment LED Bar
-Graph with prototype shield
+20 OpenCart Themes for 2018 from ThemeForest
 
-// \# Connection: // \# LED Bar positive pins \-- Arduino digital pins
-through a 1K resistor // \# LED Bar negative pins \-- GND
+Why not make 2018 the year that you really kick your online business up
+a gear! Find the right OpenCart theme and the possibilities are endless,
+but where to start? Just for you, we’ve put together a run-down of the
+top 20 OpenCart themes for transforming your online business in 2018.
+Take a look and find the one that’s right for you: \#1.Sellegance -
+Responsive and Clean OpenCart Theme
 
-const int ledPin\[10\] = {
+Great for online stores of all kinds, with its clean design and well
+thought-out shopping cart, Sellegance promises to convert browsers to
+buying customers, giving them a great experience from start to finish.
+Built with mobile users in mind, it also looks stunning on desktops and
+tablets. Sellegance is stress-free for you, too, as no HTML/CSS
+knowledge is required to get started. No hassle, just straightforward
+elegance. Details : Demo
 
-` 2,3,4,5,6,9,10,11,12,13};      // the number of the LED pins`
+2. Sellya - Multi-Purpose Responsive OpenCart Theme
+===================================================
 
-int ledState = 0;
+If full creative control is what you’re looking for, this is a stand-out
+choice. Sellya offers over 300 custom build options at your fingertips,
+without any knowledge of HMTL or CSS. The vast range of colors,
+background patterns and fonts invites you to build a great looking site
+for any online store, and you can be sure that your design will
+translate well across desktop, tablet and mobile. Details : Demo
 
-void setup() {
+3. Pav Fashion - Responsive OpenCart Theme
+==========================================
 
-` Serial.begin(9600);`\
-` // set the digital pin as output:`\
-` for(int i = 0; i < 10 ;i ++){`\
-`   pinMode(ledPin[i], OUTPUT);`\
-`   digitalWrite(ledPin[i], LOW);    `\
-` }`\
-` ledState = 1;`\
-` display(ledState);`\
-` delay(100);`
+The clue’s in the name – Pav Fashion is an ideal theme for clothes and
+shoe retail sites. Its combination of colors and textures and its
+logical structure culminate in a glamorous and elegant appearance. Fully
+responsive, customizable and simple to use, Pav Fashion offers unlimited
+theme profiles and is a great choice for presenting your fashion
+collections on any device. Details : Demo
 
-}
+4. OXY - Multi-Purpose Responsive OpenCart 3 Theme
+==================================================
 
-void loop() {
+This theme is all about attention to detail. Very popular for its
+usability, OXY is easy to install and configure, with a comprehensive
+admin panel that offers over 1000 features, options and settings. This
+is a modern, fully responsive theme, with 17 modules, allowing a high
+level of customization for any type of online store. Details : Demo
 
-` for(int i = 0; i < 9; i++){`\
-`   ledState = ledState << 1;`\
-`   display(ledState);`\
-`   delay(50);`\
-`   Serial.println(ledState,BIN);`\
-` }`\
-` for(int i = 9; i > 0; i--){`\
-`   ledState = ledState >> 1;`\
-`   display(ledState);`\
-`   delay(50);`\
-`   Serial.println(ledState,BIN);`\
-` }`
+5. SimpleGreat – Premium Responsive OpenCart Theme
+==================================================
 
-}
+SimpleGreat is a versatile and comprehensive theme. It gives you over
+300 configuration options, including hundreds of theme settings and
+effects, and over 500 fonts. One of the real selling points of
+SimpleGreat is its intuitive admin panel, making the building and
+maintenance of the site almost as enjoyable as the shopping experience!
+Details : Demo
 
-void display(int sat){
+6. NaturalFood - Responsive OpenCart Theme
+==========================================
 
-` for(int i = 0; i < 10 ;i ++){`\
-`   digitalWrite(ledPin[i],bitRead(ledState,i));`\
-` }`
+NaturalFood gives you the tools to create a professional e-commerce site
+in no time and, despite the name, it doesn’t restrict itself to online
+grocery and produce sales. With a good choice of styles already
+available, and even more in the pipeline, NaturalFood offers unlimited
+colors and fonts, customizable blog page options, and a range of layouts
+to improve the customer experience. Its flexibility makes it much more
+than just a grocery store theme. Details : Demo
 
-}
+7. Mimosa - Responsive Fashion OpenCart 3 Theme
+===============================================
 
-Nextredirectltr.pngGo Shopping 10 Segment LED Bar Graph (SKU:FIT0188)
+This is a great choice for your online fashion store, especially as it
+looks fantastic on mobile devices. Mimosa includes six beautiful home
+page layouts and a whole load of customization options, inviting you to
+build a clean, no fuss site that beautifully presents your products. You
+can also add and remove modules without touching the code. Installation
+is quick and simple, and the intuitive admin panel makes configuration
+super easy, so you can start selling today! Details : Demo
 
-Category: DFRobot \> Sensors & Modules \> LCDs, LEDs & Displays \> LEDs
+8. Bigone - Responsive OpenCart 2.3 & 3.x Theme
+===============================================
 
-Categories: Product ManualFIT SeriesComponents
+The big win with Bigone is its menu structure, which translates a huge
+volume of information about your products into clean, navigable menus,
+using Mega Menu and Vertical Mega Menu. Bigone is a powerful OpenCart
+theme that has been designed for digital and tech shops, to show off
+your products at their best and make it easy for your customers to find
+what they’re looking for. It offers eye-catching advertising banners,
+great animations, and in-built testimonial and blog pages to boost
+customer interaction. Details : Demo
+
+9. Angara - Responsive OpenCart Theme
+=====================================
+
+Although it is certainly a multi-purpose theme, Angara has been designed
+with online kitchenware, baby, sport and food stores in mind. It
+incorporates some unique effects and its static blocks create a clean
+and modern feel. Smooth functionality makes managing Angara easy, and it
+offers some excellent in-built features (including a newsletter
+subscription pop-up) to enhance the customer experience. Details : Demo
+
+10. Oregon - Responsive OpenCart Theme
+======================================
+
+The creative design and advanced features of Oregon make it an ideal
+multi-purpose e-commerce theme for anything from digital products to
+food, kitchen equipment or furniture. Oregon comes with four great home
+page layouts, sophisticated design content and helpful extensions. The
+Category Tabs Slider module, in particular, offers an elegant way of
+displaying a large range of products and a vast array of categories.
+Details : Demo
+
+11. Digitech - Responsive OpenCart 3.x Theme
+============================================
+
+Digitech is a flexible and attractive technology theme, with plenty of
+innovative features and a logical layout. Easy to install, Digitech
+includes a range of customization options, as well as cross-browser
+compatibility. The clean and contemporary scheme, eye-catching labels
+and intelligent layouts make this a great choice for an online tech
+store looking to increase sales through ever-changing deals and featured
+products. Details : Demo
+
+12. Smart Shop - Multipurpose OpenCart 3 & 2 Theme
+==================================================
+
+Originally designed for electronics and computer stores, Smart Shop is
+also popular with restaurants and tool sellers as it offers a clean and
+professional look, with the option to customize all home and sub pages.
+It boasts a new smart and responsive product grid and offers a range of
+useful modules, including a blog and unlimited banners and sliders.
+Well-structured code means it’s simple to use, and to make your own.
+Details : Demo
+
+13. HandArt - OpenCart 3 Theme for Handmade Artists and Artisans
+================================================================
+
+The standout feature of this artistic theme is its full-screen photo
+homepage, which is a stunning way to welcome potential shoppers to your
+online store. HandArt harnesses the power of the drag and drop page
+builder, and CMS blocks and banners, to make it easy to visualize,
+create and curate your page content. Mega Menu helps you to organize a
+vast array of products and gives customers a stress-free shopping
+experience. All in all, this is a really attractive theme with some
+great features and beautiful effects. Details : Demo
+
+14. Kid Toys - OpenCart 3 Multi-Purpose Responsive Theme
+========================================================
+
+Kid Toys is designed not just for kids’ products and toys, but also for
+fashion, stationery, food and accessories stores. It offers attractive
+color combinations and a professional edge. With custom backgrounds,
+columns and layouts, you have full control over how to present your
+products, and added effects and transitions give you even more
+opportunity to be creative. From the full-width slider and product image
+rollover to various Mega Menu, drop-down and sticky menu options, Kid
+Toys is great to look at and easy to use. Details : Demo
+
+15. BeFASHION - OpenCart 3 Multi-Purpose Responsive Theme
+=========================================================
+
+Designed for fashion and accessories stores, BeFASHION makes for an
+appealing and professional-looking site. There is plenty of scope for
+customization on every page, including options for Featured, New In,
+Special or Bestselling product blocks. Shoppers can easily add products
+to their own wishlist, and you can add Social Share buttons to get
+customers doing your marketing for you by sharing the products they love
+with their social circles. In terms of value for money, BeFASHION has
+got to be up there. Details : Demo
+
+16. Pav Towner - Responsive OpenCart Theme
+==========================================
+
+Offering four color variations, a stylish template, full creative
+control over menus, Google Fonts, and over 50 modules, Pav Towner has
+everything you need for a fashion, craft, food or luxury products
+website. Over 100 slideshow animations, 200 effect transitions,
+carousels and banners create an engaging visit for potential customers,
+with a powerful shopping cart solution to maximize conversions. This
+responsive theme works perfectly on wide-screen, desktop, mobile or
+tablet. Details : Demo
+
+17. Mozar - Responsive OpenCart Clothing Theme
+==============================================
+
+An excellent choice for fashion and accessories stores, this responsive
+OpenCart clothing theme works hard to help you advertise, manage and
+promote sales more effectively. There are four different home page
+layouts, and a selection simple extensions, which create an elegant
+feel. The jewel in the crown of Mozar is its large slideshow, displaying
+beautiful images with attractive fonts and eye-catching effects. The
+logically arranged sliders and countdown timer are also nice touches.
+Demo
+
+18. Logancee - Premium OpenCart Template
+========================================
+
+Logancee is a versatile theme that works really well for e-commerce
+websites of all kinds, enabling you to create a fully functional and
+good-looking online store in minutes. The 12 pre-built basic templates
+are beautifully clean and contemporary, and great for getting you
+inspired, and each one is fully customizable. Logancee uses the latest
+trends in coding and offers a large number of in-built features, saving
+you money on add-ons further down the line. Details : Demo
+
+19. Furnished - OpenCart Responsive Theme
+=========================================
+
+Furnished is an attractive theme that has been designed for furniture,
+home decor and antique stores in particular, but it works for a range of
+purposes and is ideal for small to medium sized online retailers. All of
+the pages are customizable and allow you to create a clean, fresh and
+professional online store. Furnished offers an extensive range of
+features, including a newly added product grid, and supports multiple
+currency exchange so that you can reach customers far and wide. Details
+: Demo
+
+20. Coolbaby - Original OpenCart Responsive Theme
+=================================================
+
+Highly rated by users for its design quality, customization options and
+flexibility, Coolbaby is all about being fresh and original. Designed to
+challenge the status quo and offer something new and exciting, this
+responsive theme includes 12 templates, live chat, and multi-language
+support, along with a host of other great features. If you want a store
+that stands out from the crowd and takes your customers by surprise,
+this is a top choice!
+
+So there you have it! When it comes to finding an OpenCart theme that
+works for you and your customers, these are our top picks for 2018.
+Whatever your business, now’s the time to give your online store a boost
+with a feature-packed theme that is designed for optimum usability and a
+seamless shopping experience. Find your perfect match and see your
+online business thrive. Details : Demo OpenCart Newsletter
+
+Subscribe to our newsletters and stay informed of new releases and other
+OpenCart events. adair Leave your comment
+
+lgsleadseo
+
+lgsleadseo 2 weeks ago
+
+I have been reading out many of your blog and I can state clever stuff.
+I will definitely bookmark your site. - Data Cleansing Services
+Adelaide, Call Center Services Adelaide
+
+http://leadgenerationservices.com.au/data-cleansing-and-list-building.html
+css-tree
+
+css-tree 2 weeks ago
+
+A very good collection of the responsive themes for Opencart 3.0.x. We
+have been using some of the themes on regular basis, we possess the
+expertise to integrate and customize the themes to match the desired
+look & functionality.
+
+http://css-tree.com/psd-to-opencart/ mahajangirl8
+
+mahajangirl8 16 hours ago
+
+https://www.shwetamahajan.com/delhi-escorts/
+https://www.shwetamahajan.com/noida-escorts/
+https://www.shwetamahajan.com/gurgaon-escorts/
+https://www.shwetamahajan.com/ghaziabad-escorts/
+https://www.shwetamahajan.com/faridabad-escorts/
+https://www.shwetamahajan.com/greater-noida-escorts-call-girls/
+
+Search articles OpenCart Newsletter
+
+Subscribe to our newsletters and stay informed of new releases and other
+OpenCart events. Web Hosting : Up To 20X Faster Hosting For Your Website
+OpenCart Themes from ThemeForest Template Monster SEO Hong Kong (SEO
+HERO LTD) - Search Engine Optimization & Web design Trending
+
+    GeoZones [for Dummies]
+    New OpenCart Main Web site Design
+    Algozone is a New Sponsor
+    OpenCart v1.4.7
+    eWay Integration
+    Development Week (05/05/2010)
+    New OpenCart Template
+    Development Week (05/10/2010)
+
+OpenCart
+
+    Features
+    OpenCart Cloud
+    Showcase
+    Demo
+    Download
+    Marketplace
+    Login
+
+Company
+
+    Contact Us
+    About Us
+    Extension Developer
+
+Support
+
+    Community Forum
+    Dedicated Support
+    OpenCart Partners
+    Marketplace Support
+    Migrate to OpenCart
+
+Resources
+
+    OpenCart Blog
+    OpenCart Documentation
+    OpenCart Books
+    Github Bug Tracker
+    Developer
+
+Newsletter
+
+Subscribe to our newsletters and stay informed of new releases and other
+OpenCart events.
+
+    OpenCart © Copyright 2018 OpenCart
+
+    Facebook Google Plus Twitter</text>
+      <sha1>qgsici74h0ed4cntfg0f5cbelq7wv7s</sha1>
+    </revision>
+
+</page> </mediawiki>
