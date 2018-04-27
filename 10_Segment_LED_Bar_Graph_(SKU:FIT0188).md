@@ -111,4 +111,8 @@ void display(int sat){
 
 Category: [DFRobot](https://www.dfrobot.com/) \> [Sensors & Modules](https://www.dfrobot.com/category-156.html) \> [LCDs, LEDs & Displays](https://www.dfrobot.com/category-53.html) \> [LEDs](https://www.dfrobot.com/category-131.html) [category: Product Manual](/category:_Product_Manual "wikilink") [category: FIT Series](/category:_FIT_Series "wikilink") [category: Components](/category:_Components "wikilink") [category: Source](/category:_Source "wikilink") [category: Diagram](/category:_Diagram "wikilink")
 
+<img src="https://pic1.zhimg.com/v2-1e30e53cee57c2e6d7e8197242daaba8_b.png" alt="" style="max-width:100%;">
+<img src="https://pic4.zhimg.com/v2-f60ffad0fb4cc8a398806bfbc8ab432b_b.png" alt="" style="max-width:100%;">
+<img src="https://pic1.zhimg.com/v2-15c561859b0e3b8db1d3085b1c213070_b.png" alt="" style="max-width:100%;">
+<img src="https://pic1.zhimg.com/v2-df593a933ac90282206f0cbe442a1f34_r.png" alt="" style="max-width:100%;">
 <img src="https://www.dfrobot.com/wiki/images/thumb/4/47/DRI0027_Diagram.png/550px-DRI0027_Diagram.png" alt="" style="max-width:100%;">
