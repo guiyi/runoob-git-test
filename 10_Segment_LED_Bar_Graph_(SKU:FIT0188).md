@@ -103,7 +103,12 @@ void display(int sat){
   }
 }
 ~~~~
-<img src="https://www.dfrobot.com/wiki/images/thumb/4/47/DRI0027_Diagram.png/550px-DRI0027_Diagram.png" alt="" style="max-width:100%;">
+
+
+
+
 [image:nextredirectltr.pngGo](/image:nextredirectltr.png "wikilink") Shopping [10 Segment LED Bar Graph (SKU:FIT0188)](https://www.dfrobot.com/product-636.html)
 
 Category: [DFRobot](https://www.dfrobot.com/) \> [Sensors & Modules](https://www.dfrobot.com/category-156.html) \> [LCDs, LEDs & Displays](https://www.dfrobot.com/category-53.html) \> [LEDs](https://www.dfrobot.com/category-131.html) [category: Product Manual](/category:_Product_Manual "wikilink") [category: FIT Series](/category:_FIT_Series "wikilink") [category: Components](/category:_Components "wikilink") [category: Source](/category:_Source "wikilink") [category: Diagram](/category:_Diagram "wikilink")
+
+<img src="https://www.dfrobot.com/wiki/images/thumb/4/47/DRI0027_Diagram.png/550px-DRI0027_Diagram.png" alt="" style="max-width:100%;">
