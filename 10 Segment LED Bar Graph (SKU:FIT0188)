@@ -1,190 +1,32 @@
-<div class="container">
-
-<div class="row">
-
-<div class="col-lg-12">
-
-<nav class="navbar navbar-default p-navbar" role="navigation" id="mw-navigation">
-
-<div class="container-fluid">
-
-<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mw-navigation-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-
-<div id="p-logo" class="p-logo navbar-brand" role="banner"><a>![DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com](/wiki/resources/assets/wiki.png)</a></div>
-
-</div>
-
-<div class="collapse navbar-collapse" id="mw-navigation-collapse">
-
-*   [Product Manual](#)
-    *   [DFR Series](/wiki/index.php/Product_Manual#DFR_Series)
-    *   [SEN Series](/wiki/index.php/Product_Manual#SEN_Series)
-    *   [DRI Series](/wiki/index.php/Product_Manual#DRI_Series)
-    *   [TEL Series](/wiki/index.php/Product_Manual#TEL_Series)
-    *   [FIT Series](/wiki/index.php/Product_Manual#FIT_Series)
-    *   [ROB Series](/wiki/index.php/Product_Manual#ROB_Series)
-    *   [SER Series](/wiki/index.php/Product_Manual#SER_Series)
-    *   [TOY Series](/wiki/index.php/Product_Manual#TOY_Series)
-    *   [KIT Series](/wiki/index.php/Product_Manual#KIT_Series)
-    *   [Selector Guide](/wiki/index.php/Product_Manual#Selector_Guide)
-    *   [Review](/wiki/index.php/Review)
-    *   [Project](/wiki/index.php/Project)
-    *   [Tutorial](/wiki/index.php/Tutorial)
-    *   [Assembly Guide](/wiki/index.php/Assembly_Guide)
-*   [Tutorials](#)
-    *   [User Manual](/wiki/index.php/Product_Manual#User_Manual)
-    *   [Help](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents "The place to find out")
-*   [Menu](#)
-    *   [HOME](https://www.dfrobot.com/)
-    *   [STORE](https://www.dfrobot.com/store)
-    *   [BLOG](https://www.dfrobot.com/blog)
-    *   [WIKI](https://www.dfrobot.com/wiki)
-    *   [COMMUNITY](https://www.dfrobot.com/blog)
-
-<div class="navbar-right-aligned">
-
-*   [<span class="glyphicon glyphicon-pencil"></span>](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&veaction=edit "Edit this page [v]")
-*   [<span>...</span>](# "Page tools")
-    *   [Discussion](/wiki/index.php?title=Talk:10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=edit&redlink=1 "Discussion about the content page [t]")
-    *   [Edit source](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=edit "Edit this page [e]")
-    *   [History](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=history "Past revisions of this page [h]")
-    *   [Delete](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=delete "Delete this page [d]")
-    *   [Move](/wiki/index.php/Special:MovePage/10_Segment_LED_Bar_Graph_(SKU:FIT0188) "Move this page [m]")
-    *   [Protect](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=protect "Protect this page [=]")
-    *   [Watch](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=watch "Add this page to your watchlist [w]")
-
-<div id="p-search" class="p-search navbar-form" role="search">
-
-<form id="searchform" class="mw-search form-inline" action="/wiki/index.php"><input type="hidden" name="title" value="Special:Search">
-
-<div class="input-group"><input name="search" placeholder="Search" title="Search DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com [f]" accesskey="f" id="searchInput" class="form-control">
-
-<div class="input-group-btn"><button value="Go" id="searchGoButton" name="go" title="Go to a page with this exact name if it exists" type="submit" class="searchGoButton btn btn-default"><span class="glyphicon glyphicon-share-alt"></span></button><button value="Search" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" class="mw-searchButton btn btn-default"><span class="glyphicon glyphicon-search"></span></button></div>
-
-</div>
-
-</form>
-
-</div>
-
-*   [<span class="glyphicon glyphicon-user"></span>](# "You are logged in as Grey.cheng.")
-    *   [Grey.cheng](/wiki/index.php/User:Grey.cheng "Your user page [.]")
-    *   [Talk](/wiki/index.php/User_talk:Grey.cheng "Your talk page [n]")
-    *   [Preferences](/wiki/index.php/Special:Preferences "Your preferences")
-    *   [Watchlist](/wiki/index.php/Special:Watchlist "A list of pages you are monitoring for changes [l]")
-    *   [Contributions](/wiki/index.php/Special:Contributions/Grey.cheng "A list of your contributions [y]")
-    *   [Log out](/wiki/index.php?title=Special:UserLogout&returnto=10+Segment+LED+Bar+Graph+%28SKU%3AFIT0188%29 "Log out")
-*   [<span class="glyphicon glyphicon-envelope"></span>](/wiki/index.php?title=User_talk:Grey.cheng&redirect=no "You have no new messages.")
-
-</div>
-
-</div>
-
-</div>
-
-</nav>
-
-</div>
-
-</div>
-
-<div class="row">
-
-<div class="col-lg-12">
-
-<div id="content" class="mw-body"><a id="top"></a>
-
-<div class="contentHeader">
-
-# 10 Segment LED Bar Graph (SKU:FIT0188)
-
-<div id="siteSub">From DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com</div>
-
-<div id="jump-to-nav" class="mw-jump">Jump to:[navigation](#mw-navigation), [search](#p-search)</div>
-
-</div>
-
-<div id="bodyContent">
-
-<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
-
-<div class="thumb tright">
-
-<div class="thumbinner" style="width:202px;">[![](/wiki/images/thumb/4/4f/10LEDBarGraph.jpg/200px-10LEDBarGraph.jpg)](https://www.dfrobot.com/product-636.html)
-
-<div class="thumbcaption">
-
-<div class="magnify">[](/wiki/index.php/File:10LEDBarGraph.jpg "Enlarge")</div>
-
-[10 Segment LED Bar Graph](https://www.dfrobot.com/product-636.html)</div>
-
-</div>
-
-</div>
-
-<div id="toc" class="toc">
-
-<div id="toctitle">
-
-## Contents
-
-</div>
-
-*   [<span class="tocnumber">1</span> <span class="toctext">Introduction</span>](#Introduction)
-    *   [<span class="tocnumber">1.1</span> <span class="toctext">Applications</span>](#Applications)
-    *   [<span class="tocnumber">1.2</span> <span class="toctext">Specification</span>](#Specification)
-    *   [<span class="tocnumber">1.3</span> <span class="toctext">Shipping List</span>](#Shipping_List)
-*   [<span class="tocnumber">2</span> <span class="toctext">Connection Diagram</span>](#Connection_Diagram)
-*   [<span class="tocnumber">3</span> <span class="toctext">Sample Code</span>](#Sample_Code)
-
-</div>
-
-## <span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span>[edit](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&veaction=edit&vesection=1 "Edit section: Introduction") <span class="mw-editsection-divider">|</span> [edit source](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=edit&section=1 "Edit section: Introduction")<span class="mw-editsection-bracket">]</span></span>
+ 10 Segment LED Bar Graph
+Introduction
 
 These 10 segment bar graph LEDs have many uses. With a compact footprint, and a simple hookup, they are easy for prototyping or finished products. Essentially, they are 10 individual red LEDs housed together.
 
-### <span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span>[edit](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&veaction=edit&vesection=2 "Edit section: Applications") <span class="mw-editsection-divider">|</span> [edit source](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=edit&section=2 "Edit section: Applications")<span class="mw-editsection-bracket">]</span></span>
 
-*   Audio equipment
-*   Instrument panels
-*   Digital readout display
-*   Signal strength display
-*   Power status display
-*   Art display
+Applications
 
-### <span class="mw-headline" id="Specification">Specification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span>[edit](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&veaction=edit&vesection=3 "Edit section: Specification") <span class="mw-editsection-divider">|</span> [edit source](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=edit&section=3 "Edit section: Specification")<span class="mw-editsection-bracket">]</span></span>
+Audio equipment
+Instrument panels
+Digital readout display
+Signal strength display
+Power status display
+Art display
 
-*   Forward Current (Per Segment): 25mA
-*   Max Reverse Voltage: 5v
-*   10 segment bar
-*   Color: Super Bright Red
-*   Industrial standard size
-*   Low power consumption
-*   Categorized for luminous intensity
+Specification
+Forward Current (Per Segment): 25mA
+Max Reverse Voltage: 5v
+10 segment bar
+Color: Super Bright Red
+Industrial standard size
+Low power consumption
+Categorized for luminous intensity
 
-### <span class="mw-headline" id="Shipping_List">Shipping List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span>[edit](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&veaction=edit&vesection=4 "Edit section: Shipping List") <span class="mw-editsection-divider">|</span> [edit source](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=edit&section=4 "Edit section: Shipping List")<span class="mw-editsection-bracket">]</span></span>
+Shipping List
+10 segment led bar graph - Red	(1 unit)
 
-*   10 segment led bar graph - Red (1 unit)
-
-## <span class="mw-headline" id="Connection_Diagram">Connection Diagram</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span>[edit](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&veaction=edit&vesection=5 "Edit section: Connection Diagram") <span class="mw-editsection-divider">|</span> [edit source](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=edit&section=5 "Edit section: Connection Diagram")<span class="mw-editsection-bracket">]</span></span>
-
-<div class="center">
-
-<div class="thumb tnone">
-
-<div class="thumbinner" style="width:702px;">[![](/wiki/images/thumb/e/e5/FIT0188_Connection.png/700px-FIT0188_Connection.png)](/wiki/index.php/File:FIT0188_Connection.png)
-
-<div class="thumbcaption">
-
-<div class="magnify">[](/wiki/index.php/File:FIT0188_Connection.png "Enlarge")</div>
-
-10 Segment LED Bar Graph Connection</div>
-
-</div>
-
-</div>
-
-</div>
+Connection Diagram
+ 10 Segment LED Bar Graph Connection
 
 Please note that the connection diagram shows the pins connected in reverse order for the sake of clarity. When you run the sample code included here you might notice a reverse order sequence. If you wish to wire the LEDs in the correct order you should wire:
 Arduino D2 to PIN1
@@ -195,151 +37,63 @@ and so on...
 
 Alternatively you could modify the sample code to operate in the expected order.
 
-## <span class="mw-headline" id="Sample_Code">Sample Code</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span>[edit](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&veaction=edit&vesection=6 "Edit section: Sample Code") <span class="mw-editsection-divider">|</span> [edit source](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=edit&section=6 "Edit section: Sample Code")<span class="mw-editsection-bracket">]</span></span>
+Sample Code
+// # 
+// # Editor     : Lauren from DFRobot
+// # Date       : 19.03.2012
 
-<div class="mw-highlight mw-content-ltr" dir="ltr">
+// # Product name: 10 Segment LED Bar Graph
+// # Product SKU : FIT0188
+// # Version     : 1.0
 
-<pre><span class="c1">// #</span> 
-<span class="c1">// # Editor     : Lauren from DFRobot</span>
-<span class="c1">// # Date       : 19.03.2012</span>
+// # Description:
+// # The sketch for using the 10 Segment LED Bar Graph with prototype shield
 
-<span class="c1">// # Product name: 10 Segment LED Bar Graph</span>
-<span class="c1">// # Product SKU : FIT0188</span>
-<span class="c1">// # Version     : 1.0</span>
+// # Connection:
+// #        LED Bar positive pins -- Arduino digital pins through a 1K resistor
+// #        LED Bar negative pins -- GND
 
-<span class="c1">// # Description:</span>
-<span class="c1">// # The sketch for using the 10 Segment LED Bar Graph with prototype shield</span>
+const int ledPin[10] =  {
+  2,3,4,5,6,9,10,11,12,13};      // the number of the LED pins
+int ledState = 0;
 
-<span class="c1">// # Connection:</span>
-<span class="c1">// #        LED Bar positive pins -- Arduino digital pins through a 1K resistor</span>
-<span class="c1">// #        LED Bar negative pins -- GND</span>
+void setup() {
+  Serial.begin(9600);
+  // set the digital pin as output:
+  for(int i = 0; i < 10 ;i ++){
+    pinMode(ledPin[i], OUTPUT);
+    digitalWrite(ledPin[i], LOW);    
+  }
+  ledState = 1;
+  display(ledState);
+  delay(100);
+}
 
-<span class="k">const</span> <span class="kt">int</span> <span class="n">ledPin</span><span class="p">[</span><span class="mi">10</span><span class="p">]</span> <span class="o">=</span>  <span class="p">{</span>
-  <span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">6</span><span class="p">,</span><span class="mi">9</span><span class="p">,</span><span class="mi">10</span><span class="p">,</span><span class="mi">11</span><span class="p">,</span><span class="mi">12</span><span class="p">,</span><span class="mi">13</span><span class="p">};</span>      <span class="c1">// the number of the LED pins</span>
-<span class="kt">int</span> <span class="n">ledState</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+void loop()
+{ 
+  for(int i = 0; i < 9; i++){
+    ledState = ledState << 1;
+    display(ledState);
+    delay(50);
+    Serial.println(ledState,BIN);
+  }
+  for(int i = 9; i > 0; i--){
+    ledState = ledState >> 1;
+    display(ledState);
+    delay(50);
+    Serial.println(ledState,BIN);
+  }
+}
 
-<span class="kt">void</span> <span class="nf">setup</span><span class="p">()</span> <span class="p">{</span>
-  <span class="n">Serial</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">9600</span><span class="p">);</span>
-  <span class="c1">// set the digital pin as output:</span>
-  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o"><</span> <span class="mi">10</span> <span class="p">;</span><span class="n">i</span> <span class="o">++</span><span class="p">){</span>
-    <span class="n">pinMode</span><span class="p">(</span><span class="n">ledPin</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">OUTPUT</span><span class="p">);</span>
-    <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">LOW</span><span class="p">);</span>    
-  <span class="p">}</span>
-  <span class="n">ledState</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
-  <span class="n">display</span><span class="p">(</span><span class="n">ledState</span><span class="p">);</span>
-  <span class="n">delay</span><span class="p">(</span><span class="mi">100</span><span class="p">);</span>
-<span class="p">}</span>
+void display(int sat){
+  for(int i = 0; i < 10 ;i ++){
+    digitalWrite(ledPin[i],bitRead(ledState,i));
+  }
+}
 
-<span class="kt">void</span> <span class="nf">loop</span><span class="p">()</span>
-<span class="p">{</span> 
-  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o"><</span> <span class="mi">9</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">){</span>
-    <span class="n">ledState</span> <span class="o">=</span> <span class="n">ledState</span> <span class="o"><<</span> <span class="mi">1</span><span class="p">;</span>
-    <span class="n">display</span><span class="p">(</span><span class="n">ledState</span><span class="p">);</span>
-    <span class="n">delay</span><span class="p">(</span><span class="mi">50</span><span class="p">);</span>
-    <span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">ledState</span><span class="p">,</span><span class="n">BIN</span><span class="p">);</span>
-  <span class="p">}</span>
-  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">9</span><span class="p">;</span> <span class="n">i</span> <span class="o">></span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">--</span><span class="p">){</span>
-    <span class="n">ledState</span> <span class="o">=</span> <span class="n">ledState</span> <span class="o">>></span> <span class="mi">1</span><span class="p">;</span>
-    <span class="n">display</span><span class="p">(</span><span class="n">ledState</span><span class="p">);</span>
-    <span class="n">delay</span><span class="p">(</span><span class="mi">50</span><span class="p">);</span>
-    <span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">ledState</span><span class="p">,</span><span class="n">BIN</span><span class="p">);</span>
-  <span class="p">}</span>
-<span class="p">}</span>
 
-<span class="kt">void</span> <span class="nf">display</span><span class="p">(</span><span class="kt">int</span> <span class="n">sat</span><span class="p">){</span>
-  <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o"><</span> <span class="mi">10</span> <span class="p">;</span><span class="n">i</span> <span class="o">++</span><span class="p">){</span>
-    <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="n">bitRead</span><span class="p">(</span><span class="n">ledState</span><span class="p">,</span><span class="n">i</span><span class="p">));</span>
-  <span class="p">}</span>
-<span class="p">}</span>
-</pre>
 
-</div>
 
-[![Nextredirectltr.png](/wiki/images/9/95/Nextredirectltr.png)](/wiki/index.php/File:Nextredirectltr.png)Go Shopping [10 Segment LED Bar Graph (SKU:FIT0188)](https://www.dfrobot.com/product-636.html)
+Go Shopping 10 Segment LED Bar Graph (SKU:FIT0188)
 
-Category: [DFRobot](https://www.dfrobot.com/) > [Sensors & Modules](https://www.dfrobot.com/category-156.html) > [LCDs, LEDs & Displays](https://www.dfrobot.com/category-53.html) > [LEDs](https://www.dfrobot.com/category-131.html)
-
-</div>
-
-<div class="printfooter">Retrieved from "[https://www.dfrobot.com/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&oldid=39154](https://www.dfrobot.com/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&oldid=39154)"</div>
-
-</div>
-
-<div id="catlinks" class="catlinks" data-mw="interface">
-
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">[Categories](/wiki/index.php/Special:Categories "Special:Categories"):
-
-*   [Product Manual](/wiki/index.php/Category:Product_Manual "Category:Product Manual")
-*   [FIT Series](/wiki/index.php/Category:FIT_Series "Category:FIT Series")
-*   [Components](/wiki/index.php/Category:Components "Category:Components")
-
-</div>
-
-<div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories:
-
-*   [Source](/wiki/index.php/Category:Source "Category:Source")
-*   [Diagram](/wiki/index.php/Category:Diagram "Category:Diagram")
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="row">
-
-<div class="col-lg-12">
-
-<nav class="navbar navbar-default p-tb " id="p-tb">
-
-*   [What links here](/wiki/index.php/Special:WhatLinksHere/10_Segment_LED_Bar_Graph_(SKU:FIT0188) "A list of all wiki pages that link here [j]")
-*   [Related changes](/wiki/index.php/Special:RecentChangesLinked/10_Segment_LED_Bar_Graph_(SKU:FIT0188) "Recent changes in pages linked from this page [k]")
-*   [Upload file](/wiki/index.php/Special:Upload "Upload files [u]")
-*   [Special pages](/wiki/index.php/Special:SpecialPages "A list of all special pages [q]")
-*   [Printable version](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&printable=yes "Printable version of this page [p]")
-*   [Permanent link](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&oldid=39154 "Permanent link to this revision of the page")
-*   [Page information](/wiki/index.php?title=10_Segment_LED_Bar_Graph_(SKU:FIT0188)&action=info "More information about this page")
-
-</nav>
-
-</div>
-
-</div>
-
-<div class="row">
-
-<div class="col-lg-12">
-
-*   This page was last modified on 13 September 2017, at 10:42.
-*   Content is available under [GNU Free Documentation License 1.3 or later](https://www.gnu.org/copyleft/fdl.html) unless otherwise noted.
-
-</div>
-
-</div>
-
-<div class="row">
-
-<div class="col-lg-6">
-
-*   <small>[Privacy policy](/wiki/index.php/Robot_Wiki:Privacy_policy "Robot Wiki:Privacy policy")</small>
-*   <small>[About DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com](/wiki/index.php/Robot_Wiki:About "Robot Wiki:About")</small>
-*   <small>[Disclaimers](/wiki/index.php/Robot_Wiki:General_disclaimer "Robot Wiki:General disclaimer")</small>
-
-</div>
-
-<div class="col-lg-6">
-
-*   [![GNU Free Documentation License 1.3 or later](/wiki/resources/assets/licenses/gnu-fdl.png)](https://www.gnu.org/copyleft/fdl.html)
-*   [![Powered by MediaWiki](/wiki/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-
-</div>
-
-</div>
-
-</div>
-
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.page.watch.ajax","ext.visualEditor.targetLoader","ext.bootstrap.scripts"]);});</script> <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":4272});});</script>
+Category: DFRobot > Sensors & Modules > LCDs, LEDs & Displays > LEDs
