@@ -83,8 +83,8 @@ Target: Control speed and direction of DC motor
 
 #### Step3: Wiring
 
-[`500px|center`](/image:https://www.dfrobot.com/wiki/images/thumb/4/47/DRI0027_Diagram.png/550px-DRI0027_Diagram.png "wikilink")
-
+[`500px|center`](/image src="https://www.dfrobot.com/wiki/images/thumb/4/47/DRI0027_Diagram.png/550px-DRI0027_Diagram.png "wikilink")
+<image src="https://www.dfrobot.com/wiki/images/thumb/4/47/DRI0027_Diagram.png/550px-DRI0027_Diagram.png"/>
 #### Step4: Sample Code
 
 1.  Open Arduino IDE
