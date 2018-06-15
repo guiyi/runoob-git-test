@@ -44,3 +44,4 @@ Documents
 [CDS Servo product page](http://www.dfrobot.com/index.php?route=product/product&filter_name=cds&product_id=373)
 [image:nextredirectltr.pngGo](/image:nextredirectltr.png "wikilink") Shopping [AX12 CDS55xx Driver Board(SKU:DRI0016)](https://www.dfrobot.com/product-579.html)
 [category: Product Manual](/category:_Product_Manual "wikilink") [category: DRI Series](/category:_DRI_Series "wikilink")
+![123](http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
