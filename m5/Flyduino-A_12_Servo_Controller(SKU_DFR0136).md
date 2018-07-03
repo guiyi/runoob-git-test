@@ -1,0 +1,9 @@
+<p>![fig:Flyduino-A 12 Servo Controller ( Arduino Compatible)](https://github.com/DFRobot/DFRobotDocument/Flyduino-A_12_Servo_Controller(SKU:DFR0136)/image/DFR0136.jpg  "Flyduino-A 12 Servo Controller ( Arduino Compatible)")</p>
+<pre><code>NOTE: Pin &quot;RX&quot; and pin &quot;TX&quot; are on the left side, FTDI interface  </code></pre>
+<p>==Sample Code==</p>
+<pre class="sourceCode cpp"><code class="sourceCode cpp"><span class="ot">#include &lt;MegaServo.h&gt;#define NBR_SERVOS 12  </span><span class="co">// the number of servos, up to 48 for Mega, 12 for other boards#define FIRST_SERVO_PIN 2 MegaServo Servos[NBR_SERVOS] ; // max servos is 48 for mega, 12 for other boardsint pos = 0;      // variable to store the servo position int potPin = 0;   // connect a pot to this pin.void setup(){  for( int i =0; i &lt; NBR_SERVOS; i++)    Servos[i].attach( FIRST_SERVO_PIN +i, 800, 2200);}void loop(){   pos = analogRead(potPin);   // read a value from 0 to 1023  for( int i =0; i &lt;NBR_SERVOS; i++)     Servos[i].write( map(pos, 0,1023,0,180));     delay(15);   }</span></code></pre>
+<p>It can be used as a standard mini Arduino board and can control up to 12 servos.For more information, check the Arduino library. <a href="http://arduino.cc/playground/Code/MegaServo">http://arduino.cc/playground/Code/MegaServo</a><br /><br /><br /><a href="image:nextredirectltr.png" title="wikilink">image:nextredirectltr.pngGo</a> Shopping <a href="https://www.dfrobot.com/product-505.html">Flyduino-A 12 Servo Controller(SKU:DFR0136)</a><br /><br /><a href="category:_Product_Manual" title="wikilink">category: Product Manual</a><a href="category:_DFR_Series" title="wikilink">category: DFR Series</a><a href="category:_Motors-Servos" title="wikilink">category: Motors-Servos</a><a href="category:_source" title="wikilink">category: source</a></p>---
+title: Flyduino-A 12 Servo Controller(SKU:DFR0136)
+permalink: /Flyduino-A_12_Servo_Controller(SKU:DFR0136)/
+---
+

@@ -1,0 +1,6 @@
+<h2 id="introduction">Introduction</h2>
+<p><a href="image:Mega_Prototyping_Shield_DFR0016.jpg" title="wikilink">thumb</a>* PCB used for Arduino MEGA Prototyping* Multilayer PCB design* All hardware included* Soldering and assembly requiredThe <em>DFRobot Prototyping Shield Kit for Arduino MEGA</em> allows you to create a prototyping board to connect to the Arduino MEGA Microcontroller. The board is intended to fit at the top of Arduino MEGA Microcontroller module and is clearly labeled. Prior soldering experience is recommended. The MEGA ProtoShield prototype board can also be expanded with mini-bread board. The Mini-bread Board is sold separately.==Specification==* Reset button up top * Lots of GND and +5V rails * DIP prototyping area makes it easy to add more chips <a href="image:nextredirectltr.png" title="wikilink">image:nextredirectltr.pngGo</a> Shopping <a href="https://www.dfrobot.com/product-60.html">Mega Prototyping Shield For Arduino Mega (SKU: DFR0016)</a><a href="category:_Product_Manual" title="wikilink">category: Product Manual</a><a href="category:_DFR_Series" title="wikilink">category: DFR Series</a><a href="category:_Shields" title="wikilink">category: Shields</a></p>---
+title: Mega Prototyping Shield For Arduino Mega (SKU: DFR0016)
+permalink: /Mega_Prototyping_Shield_For_Arduino_Mega_(SKU:_DFR0016)/
+---
+

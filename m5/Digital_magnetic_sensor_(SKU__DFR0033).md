@@ -1,0 +1,7 @@
+<p><a href="image:Digital_magnetic_sensor.jpg" title="wikilink">thumb</a>==Introduction==The <em>magnetic sensor</em> can be used on magnetic (magnet) detection, detection range up to about 3cm (detection range and the strength of the magnetic).==Specification==*Voltage: +3.3-5V *Pin Definition :1 - Output 2 - Power 3 - to *Weight: 5g ==Connection diagram==<a href="file:magnetic_sensor_z.png" title="wikilink">thumb</a><br />==Sample code==</p>
+<pre class="sourceCode cpp"><code class="sourceCode cpp"><span class="ot">#include &lt;Wire.h&gt;int magPin=3;void setup(){ Serial.begin(9600); Serial.println(&quot;magnet:&quot;); pinMode(magPin,INPUT);} int val;void loop(){  val=digitalRead(magPin);  Serial.println(val);}</span></code></pre>
+<p><br /><br /><br /><br /><a href="image:nextredirectltr.png" title="wikilink">image:nextredirectltr.pngGo</a> Shopping <a href="http://www.dfrobot.com/index.php?route=product/product&amp;keyword=DFR0033&amp;category_id=0&amp;description=1&amp;model=1&amp;product_id=233">Digital magnetic sensor (SKU: DFR0033)</a><a href="category:_Product_Manual" title="wikilink">category: Product Manual</a><a href="category:_DFR_Series" title="wikilink">category: DFR Series</a><a href="category:_Sensors" title="wikilink">category: Sensors</a><a href="category:source" title="wikilink">category:source</a><a href="category:Diagram" title="wikilink">category:Diagram</a></p>---
+title: Digital magnetic sensor (SKU: DFR0033)
+permalink: /Digital_magnetic_sensor_(SKU:_DFR0033)/
+---
+
