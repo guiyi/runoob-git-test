@@ -1,0 +1,8 @@
+<h2 id="introduction">Introduction</h2>
+<p><a href="image:sensors_for_arduino9.png" title="wikilink">thumbThis</a> is a big button which gives the first touch of the physical world. Simply plug to IO expansion board to finish your first taste of Arduino.==Features==*Digital push button sensor*Easy to 'plug and play'*Large button keypad and high-quality first-class hat==Pin Definition==Big button module pin definition ::#Input:#Power:#GND==Connection Diagram==<a href="image:Connect_DFR0029.png" title="wikilink">thumb</a>==Sample Code==</p>
+<pre><code>///Arduino Sample Code///www.DFRobot.com///Last modified on 16th September 2010int ledPin = 13;                // choose the pin for the LEDint inputPin = 3;               // Connect sensor to input pin 3 void setup() {  pinMode(ledPin, OUTPUT);      // declare LED as output  pinMode(inputPin, INPUT);     // declare pushbutton as input}void loop(){  int val = digitalRead(inputPin);  // read input value  if (val == HIGH) {            // check if the input is HIGH    digitalWrite(ledPin, LOW);  // turn LED OFF  } else {    digitalWrite(ledPin, HIGH); // turn LED ON  }}</code></pre>
+<p><br /><br /><a href="image:nextredirectltr.png" title="wikilink">image:nextredirectltr.pngGo</a> Shopping <a href="http://www.dfrobot.com/index.php?route=product/product&amp;keyword=dfr0029&amp;category_id=0&amp;description=1&amp;model=1&amp;product_id=73">DFRobot Digital Push Button (SKU:DFR0029)</a><a href="category:_Product_Manual" title="wikilink">category: Product Manual</a><a href="category:_DFR_Series" title="wikilink">category: DFR Series</a></p>---
+title: DFRobot Digital Push Button (SKU:DFR0029)
+permalink: /DFRobot_Digital_Push_Button_(SKU:DFR0029)/
+---
+

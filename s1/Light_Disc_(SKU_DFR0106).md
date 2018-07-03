@@ -1,0 +1,7 @@
+<p>![fig:Light Disc with 7 SMD RGB LED](https://github.com/DFRobot/DFRobotDocument/Light_Disc_(SKU:DFR0106)/image/Light_disc_version_1.JPG  "Light Disc with 7 SMD RGB LED")This Disk requires PWM pins, you may use any Pins capable of PWM output.==Sample code==</p>
+<pre><code>//This sample code use Digital Pin 3,5,6 and GND // This code only works for V1 version which comes with a soldered cable// www.dfrobot.com// Last modified on 26/11/2014int B = 3; //Connect Blue led to Digital pin 3int R = 5;//Connect Red led to Digital pin 5int G = 6;//Connect Green led to Digital pin 6//Connect the 5V pin of light disc to GND Pin of Arduinovoid setup(){  pinMode(3,OUTPUT);  pinMode(5,OUTPUT);  pinMode(6,OUTPUT);}void loop(){  analogWrite(B,random(255));    analogWrite(R,random(255));    analogWrite(G,random(255));  delay(80);  }</code></pre>
+<p><br /><br /><br /><a href="image:nextredirectltr.png" title="wikilink">image:nextredirectltr.pngGo</a> Shopping <a href="https://www.dfrobot.com/product-350.html"><strong>Light Disc with 7 SMD RGB LED</strong></a>Category: <a href="https://www.dfrobot.com/">DFRobot</a> &gt; <a href="https://www.dfrobot.com/category-156.html"><strong>Sensors &amp; Modules</strong></a> &gt; <a href="https://www.dfrobot.com/category-53.html"><strong>LCDs, LEDs &amp; Displays</strong></a><br /><a href="category:_Product_Manual" title="wikilink">category: Product Manual</a><a href="category:_DFR_Series" title="wikilink">category: DFR Series</a></p>---
+title: Light Disc (SKU:DFR0106)
+permalink: /Light_Disc_(SKU:DFR0106)/
+---
+

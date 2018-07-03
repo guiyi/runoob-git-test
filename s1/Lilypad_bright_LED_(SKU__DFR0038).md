@@ -1,0 +1,6 @@
+<h2 id="introduction">Introduction</h2>
+<p><a href="image:lilypad_bright_LED_DFR0038.jpg" title="wikilink">thumbA</a> simple, very bright, 250mcd, white LED LilyPad. Light up the night!''LilyPad ''is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable!==Specification==* 5x11mm * Thin 0.8mm PCB ==Document==* <a href="http://www.sparkfun.com/datasheets/DevTools/LilyPad/LilyPad-LED.pdf">Schematics</a>* <a href="http://www.sparkfun.com/datasheets/DevTools/LilyPad/APT3216QWF-D.pdf">LED Datasheet</a><br /><br /><a href="image:nextredirectltr.png" title="wikilink">image:nextredirectltr.pngGo</a> Shopping <a href="https://www.dfrobot.com/product-247.html">Lilypad bright LED (SKU: DFR0038)</a><a href="category:_Product_Manual" title="wikilink">category: Product Manual</a><a href="category:_DFR_Series" title="wikilink">category: DFR Series</a><a href="category:_Modules" title="wikilink">category: Modules</a><a href="category:_Components" title="wikilink">category: Components</a></p>---
+title: Lilypad bright LED (SKU: DFR0038)
+permalink: /Lilypad_bright_LED_(SKU:_DFR0038)/
+---
+
